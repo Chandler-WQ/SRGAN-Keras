@@ -1,5 +1,6 @@
 # SRGAN-Keras
-超分辨重建毕业设计，主要实现了ESRGAN和SRGAN
+超分辨重建毕业设计，主要基于ESRGAN和SRGAN实现超分重建模型，同时实现了LPIPS\NIQE\SSIM\PSNR的计算脚本和画图脚本
+
 运行前需要将一下一些数据下载挪进项目中。
 
 链接：https://pan.baidu.com/s/128aKMREjR26D-doEBovYWA 
